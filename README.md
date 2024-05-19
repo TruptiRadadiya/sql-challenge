@@ -25,7 +25,7 @@ This project involves analyzing employee data from Pewlett Hackard during the 19
 
 ### Running the Queries
 
-- Execute the SQL queries provided in the queries.sql file to perform the data analysis tasks.
+- Execute the SQL queries provided in the 'queries.sql' file to perform the data analysis tasks.
 
 ### File Structure
 
