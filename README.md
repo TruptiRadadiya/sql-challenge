@@ -30,8 +30,8 @@ This project involves analyzing employee data from Pewlett Hackard during the 19
 ### File Structure
 
 ```
-pewlett-hackard-employee-research/
-├── resources/
+EmployeeSQL/
+├── Resources/
 │   ├── departments.csv
 │   ├── dept_emp.csv
 │   ├── dept_manager.csv
